@@ -7,6 +7,10 @@
             "email": "matthew@vanderende.ca"
         }
     ],
+    "require": {
+        "guzzle/guzzle": "~3.7",
+        "graham-campbell/digitalocean": "~3.0"
+    },
     "autoload": {
         "psr-4": {
             "bizbink\\DODynDNSBundle\\": ""
