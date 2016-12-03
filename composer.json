@@ -1,0 +1,15 @@
+{
+    "name": "bizbink/dodyndns-bundle",
+    "description": "",
+    "authors": [
+        {
+            "name": "Matthew Vanderende",
+            "email": "matthew@vanderende.ca"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "bizbink\\DODynDNSBundle\\": ""
+        }
+    }
+}
